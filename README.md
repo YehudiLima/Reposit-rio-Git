@@ -1,2 +1,2 @@
-# Reposit-rio-Git
+# Repositorio-Git
 Repositório para testes de exercicios e estudo.
